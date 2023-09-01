@@ -1,0 +1,53 @@
+header{
+    background-image: url(Banner\ 2\ KicksPN.png);
+    background-position:center;
+    width: 500px;
+        }
+    .logo{
+        width: 100px;
+        background-position: left;
+       }
+    *{
+      margin: 0 auto;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    h1{
+      font-family: 'Times New Roman', Times, serif;
+    }
+  
+  
+    .navbar .container-fluid{
+      background-color: aquamarine;
+    }
+    body{
+      background-color: rgb(153, 196, 182);
+    }
+    p{
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: larger;
+    }
+    
+    
+    strong{
+      color: red;
+      font-size: larger;
+    }
+    .nav-link:hover{
+background-color: brown;
+color: white;
+    }
+    #hipnotic{
+      width: 50px;
+      height: 50px;
+    }
+    footer{
+      background-color: blanchedalmond;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    
+    
+
+  
+  
